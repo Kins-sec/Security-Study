@@ -5,5 +5,6 @@
 
 - Linux
 - Network
-- Security
+- Wireshark
+- Logs
 - TryHackMe
