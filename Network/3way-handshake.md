@@ -51,7 +51,8 @@ TCP 연결 과정에서 다음과 같은 순서로 패킷이 교환되는 것을
 TCP 연결 수립
 실행 결과
 
-<img width="1203" height="444" alt="3-way Handshake 1" src="https://github.com/user-attachments/assets/a894a343-7857-4122-b342-d0be640077cb" />
+
+<img width="1203" height="444" alt="3-way Handshake 1" src="https://github.com/user-attachments/assets/845a47c1-f085-49da-a559-8efd461593d4" />
 
 
 그림 1. Wireshark를 이용한 TCP 3-Way Handshake 패킷 분석
