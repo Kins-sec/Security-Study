@@ -52,7 +52,7 @@ TCP 연결 수립
 실행 결과
 
 
-<img width="1203" height="444" alt="3-way Handshake 1" src="https://github.com/user-attachments/assets/845a47c1-f085-49da-a559-8efd461593d4" />
+![3-way Handshake 1](https://github.com/user-attachments/assets/845a47c1-f085-49da-a559-8efd461593d4)
 
 
 그림 1. Wireshark를 이용한 TCP 3-Way Handshake 패킷 분석
