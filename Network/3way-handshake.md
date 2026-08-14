@@ -52,7 +52,8 @@ TCP 연결 수립
 실행 결과
 
 
-<img width="1203" height="444" alt="3-way Handshake_실습" src="https://github.com/user-attachments/assets/6e23d726-182f-4ef9-86a9-653ebbb499a9" />
+<img width="1203" height="444" alt="3-way Handshake_실습" src="https://github.com/user-attachments/assets/0da90d1a-6343-4e71-9dcf-c5ab665c84d7" />
+
 
 
 
