@@ -7,4 +7,3 @@
 - Network
 - Wireshark
 - Logs
-- TryHackMe
